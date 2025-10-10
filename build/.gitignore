@@ -2,3 +2,6 @@
 !.gitignore
 !release.js
 !debug.js
+
+!release~lib/
+!release~lib/**
